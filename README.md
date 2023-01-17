@@ -10,8 +10,4 @@
 ### my aplications
 ## https://kashumy.github.io/My_aplications/Index.html
 
-''''
--No cool-
-## but
--fun
-''''
+:I LIKE 3D
