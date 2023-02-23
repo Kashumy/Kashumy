@@ -4,8 +4,8 @@
 
 - `♈I LIKE HTML AND PAGES`
 
- ![alt text](https://images.app.goo.gl/q5AVm9XPQigJoUPA8)
-### my aplications
+![alt text](https://github.com/kashumy/kashumy/blob/main/Untitled139_20230223213054.png?raw=true)
+ ### my aplications
 ## https://kashumy.github.io/My_aplications/Index.html
 
 :I LIKE 3D
