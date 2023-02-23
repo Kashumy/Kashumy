@@ -3,7 +3,8 @@
 ### talking with people.
 
 - `♈I Created own code editor for android `
-- '⛎This is beta project you can visit this in my aplications ' 
+- `⛎This is beta project you can visit this in my aplications `
+> https://kashumy.github.io/My_aplications/Index.html
 
 ![alt text](https://github.com/kashumy/kashumy/blob/main/Untitled139_20230223213054.png?raw=true)
  ### my aplications
