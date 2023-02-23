@@ -1,6 +1,5 @@
 - ## hi my name is Kashumy
-- ### i like creating aplications and 
-### talking with people.
+### i like creating aplications and talking with people.
 
 - `♈I Created own code editor for android `
 - `⛎This is beta project you can visit this in my aplications `
@@ -10,7 +9,8 @@
  ### my aplications
 ## https://kashumy.github.io/My_aplications/Index.html
 
-:I LIKE 3D
-:This is a presentation for my English teacher
-
-#### https://kashumy.github.io/PANGW/
+>> all my amazing projects will be here
+*****
+there
+https://kashumy.github.io/My_aplications/Index.html
+*****
