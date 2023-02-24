@@ -11,8 +11,4 @@
  ### my aplications
 ## https://kashumy.github.io/My_aplications/Index.html
 
->> all my amazing projects will be here
-*****
-there
-https://kashumy.github.io/My_aplications/Index.html
-*****
+>> all my amazing projects will be here.   https://kashumy.github.io/My_aplications/Index.html
