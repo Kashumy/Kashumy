@@ -1,6 +1,2 @@
-<span class="t" >md</span>
-<style>
-.t{
-color:blue;
-}
-</style>
+<span style="color:red" >md</span>
+
