@@ -4,7 +4,7 @@
 red { color: red }
 yellow { color: yellow }
 </style>
-
+O{: style=“kolor: czerwony; krycie: 0,80;” }
 <red> red color markdown text</red>
 <yellow> red color markdown text</yellow>
 - ## hi my name is Kashumy
