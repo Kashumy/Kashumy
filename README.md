@@ -1,7 +1,9 @@
 > # Kashumy⚙️
+
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
 </span>
+
 - ## hi my name is Kashumy
 ### i like creating aplications and talking with people.
 
