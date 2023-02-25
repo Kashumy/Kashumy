@@ -1,7 +1,7 @@
 > # Kashumy⚙️
 
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
+
+
 - ## hi my name is Kashumy
 ### i like creating aplications and talking with people.
 
@@ -14,3 +14,7 @@
 ## https://kashumy.github.io/My_aplications/Index.html
 
 >> all my amazing projects will be here.   https://kashumy.github.io/My_aplications/Index.html
+<<
+<h1 style="color:rgba(255,2,2,1);">
+    markdown color font styles
+</h1>
