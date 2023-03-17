@@ -1,13 +1,13 @@
 
 ![](text2.png)
-> My name is Krystian ✨
+# My name is Krystian ✨
 
-# ⚙️ My projects 
-## Aplications 
+## ⚙️ My projects 
+### Aplications 
 - `https://kashumy.github.io/My_aplications/Index.html `
-# ✨ Beta projects
+### ✨ Beta projects
 -`nothing`
-# 📌 About Me
+### 📌 About Me
 - 🌐 I like programming in html, css, js. 
 - 🥝 I like making games for mobile devices.
 - 💻 I create websites and mobile applications
