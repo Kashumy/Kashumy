@@ -4,7 +4,7 @@
 
 ## ⚙️ My projects 
 ### Aplications 
-`https://kashumy.github.io/My_aplications/Index.html `
+https://kashumy.github.io/My_aplications/Index.html 
 ### ✨ Beta projects
 -`nothing`
 ### 📌 About Me
