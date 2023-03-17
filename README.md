@@ -1,6 +1,6 @@
 
 ![](text.png)
-> Krystian <
+>>> Krystian 
 - 🍎 I like programming in html, css, js. 
 - 🥝 I like making games for mobile devices.
 - 💻 I create websites and mobile applications
