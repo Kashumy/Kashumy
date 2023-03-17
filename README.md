@@ -1,5 +1,5 @@
 
-![](text.png)
+![](text2.png)
 >>> Krystian 
 - 🍎 I like programming in html, css, js. 
 - 🥝 I like making games for mobile devices.
