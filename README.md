@@ -9,7 +9,8 @@ https://kashumy.github.io/My_aplications/Index.html
 - https://kashumy.github.io/Response/
 - ... 
 ### ✨ Beta projects
--`nothing`
+
+- https://kashumy.github.io/JUST_WAIT_FOR_NEW_PROJECT/ 
 ### 📌 About Me
 - 🌐 I like programming in html, css, js. 
 - 🥝 I like making games for mobile devices.
