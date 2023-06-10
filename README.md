@@ -18,3 +18,8 @@ https://kashumy.github.io/My_aplications/Index.html
 - 🌍 I want to learn how github works and how to create complete css pages
 - 🍉 I like watermelon's and kebab's
 ### 🎉 2022 y. / 📈 2023 y. 
+
+-  ⚡  @codinger-cutie join to   
+__________
+https://github.com/Kashumy/Project-1
+__________
