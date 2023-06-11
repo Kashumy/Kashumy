@@ -1,5 +1,5 @@
  
- ![](![](2.gif) [](text2.png)
+  ![](text2.png)
 ![](1.gif)
 
 # Hello My name is Krystian ✨
