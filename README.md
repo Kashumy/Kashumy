@@ -1,6 +1,8 @@
 
 ![](text2.png)
-# My name is Krystian ✨
+![](1.gif)
+
+# Hello My name is Krystian ✨ ![](2.gif) 
 
 ## ⚙️ My projects 
 ### Aplications 
