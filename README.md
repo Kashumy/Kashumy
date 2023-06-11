@@ -5,6 +5,9 @@
 # Hello My name is Krystian ✨
 ### Im interested 
 - Html ![](https://www.w3.org/html/)
+- Css
+- Js
+- C++
 ## ⚙️ My projects 
 ### Aplications 
 https://kashumy.github.io/My_aplications/Index.html 
