@@ -1,5 +1,5 @@
 ## dayly splash text
-- `Freetiming`
+- `Wiswes`
 
   ![](text2.png)
 ![](1.gif)
