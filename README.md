@@ -44,3 +44,14 @@ _________
 ### 🎉 2022 y. / 📈 2023 y. 
 
 ### ^ w ^  meow i like staring nice front-end pages :)
+
+
+
+
+🌟 Motivate my work with stars! 🌟
+
+Hey there! I wanted to share a quick and enjoyable text with you, spiced up with some emojis. Here it goes:
+
+"✨ Help me stay motivated! Your support means the world to me. Let's light up the sky together! ⭐️"
+
+Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, your encouragement truly brightens my day!
