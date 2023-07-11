@@ -1,4 +1,6 @@
- 
+## dayly splash text
+- `Freetiming`
+
   ![](text2.png)
 ![](1.gif)
 
@@ -41,7 +43,4 @@ _________
 
 ### 🎉 2022 y. / 📈 2023 y. 
 
--  ⚡  @codinger-cutie join to   
-__________
-https://github.com/Kashumy/Project-1
-__________
+### ^ w ^  meow i like staring nice front-end pages :)
