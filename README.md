@@ -1,5 +1,5 @@
 ## dayly splash text
-- `Wiswes`
+- `Lorem dolor sit amet `
 
   ![](text2.png)
 ![](1.gif)
