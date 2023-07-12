@@ -1,6 +1,9 @@
-## dayly splash text
-- `Lorem dolor sit amet `
+👋🏻 Hello let's be folowers together 
+⭐ let's climb above the stars
 
+
+## dayly splash text
+- `New THREE.PerspectiveCamera `
   ![](text2.png)
 ![](1.gif)
 
@@ -10,14 +13,15 @@
 - Css
 - Js
 - C++
-## ⚙️ My projects 
+# 💪 Rocket projects
 
-#### https://wenglon.github.io 
------------------
-^ the best game i ever made
-## Join To ByteBinUtils language 
------------------
+#### Abyss-Asylum game project
+https://github.com/Kashumy/Abyss-Asylum/blob/main/README.md
+#### ByteBinUtils Engine language for Js
 [ByteBinUtils](https://github.com/Kashumy/ByteBinUtils)
+#### im recomend seeing
+wenglon.github.io 
+codinger-cutie.github.io
 
 
 
