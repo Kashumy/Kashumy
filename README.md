@@ -17,7 +17,7 @@
 ^ the best game i ever made
 ## Join To ByteBinUtils language 
 -----------------
-https://github.com/Kashumy/ByteBinUtils/packages
+[https://github.com/Kashumy/ByteBinUtils](ByteBinUtils_For_Js_Free_to_Use)
 
 
 
