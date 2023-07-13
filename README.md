@@ -3,7 +3,7 @@
 
 
 ## dayly splash text
-- `New THREE.PerspectiveCamera `
+- `i like programming `
   ![](text2.png)
 ![](1.gif)
 
