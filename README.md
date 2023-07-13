@@ -1,5 +1,5 @@
 
-![](text2.png)
+
 
 ![Untitled61_20230713194647](https://github.com/Kashumy/Kashumy/assets/114857637/5037e6e3-8ba8-4b8a-a5b3-2557b90b9ead)
 
@@ -111,4 +111,5 @@ Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, 
 
  - `https://github.com/Kashumy/portfoilo/ `
 
-</div>
+
+![](text2.png)
