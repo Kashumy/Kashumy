@@ -2,7 +2,8 @@
 ![](text2.png)
 
 
-# Hello My name is Krystian ✨
+
+# ![image](https://github.com/Kashumy/Kashumy/assets/114857637/0476ead3-534c-4f80-a2ee-ecd4fffb1544) Hello My name is Krystian ✨
 ### Im interested 
 ___
 |   |   |     |
