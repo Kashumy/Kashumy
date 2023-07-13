@@ -1,5 +1,4 @@
-
- ![](text2.png)
+![](text2.png)
 ![](1.gif)
 
 # Hello My name is Krystian ✨
@@ -69,3 +68,8 @@ Hey there! I wanted to share a quick and enjoyable text with you, spiced up with
 "✨ Help me stay motivated! Your support means the world to me. Let's light up the sky together! ⭐️"
 
 Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, your encouragement truly brightens my day!
+
+
+⭐ Inspired Projects
+by : @MuhammadMujtabaa
+ - `https://github.com/Kashumy/portfoilo/ `
