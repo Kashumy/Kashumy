@@ -1,4 +1,4 @@
-<p algin="center" >
+<pre algin="center" >
 ![](text2.png)
 
 
@@ -100,4 +100,4 @@ Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, 
 
  - `https://github.com/Kashumy/portfoilo/ `
 
-</p>
+</pre>
