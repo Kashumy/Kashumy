@@ -17,9 +17,10 @@ ___
 | C  | |        |
 ___
 
-> # Projects
+#  ![Untitled62_20230713221406](https://github.com/Kashumy/Kashumy/assets/114857637/1c519627-f83b-4863-8c8b-7e6ec48605b1) Projects 
 
-![Untitled62_20230713220707](https://github.com/Kashumy/Kashumy/assets/114857637/5a9a6219-db22-4e49-b865-63549d39283d)
+
+
 
 > Here is my projects
 
