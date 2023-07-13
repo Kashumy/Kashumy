@@ -1,23 +1,29 @@
-<pre algin="center" >
+
 ![](text2.png)
 
 
 # Hello My name is Krystian ✨
 ### Im interested 
-|   |   |
-|----|----|
-|Html| Css |
-|JavaScript| makefile |
-| C++ | Python |
-| C  | |
-# Projects
+___
+|   |   |     |
+|--------|--------|--------|
+|Html| Css | Drawing & designing |
+|JavaScript| makefile |        |
+| C++ | Python |          |
+| C  | |        |
+___
 
-| Project | Description | Stars |
+> # Projects
+
+
+
+| Project | Description | Code Of Project |
 |---------|-------------|-------|
-| [Project 1](https://kashumy.github.io/) | Home Portfoilo | [Link to Stars](https://github.com/Kashumy/kashumy.github.io/) |
-| [Project 2](https://kashumy.github.io/portfolio) | Home portfolio 2 | [Link to Stars](https://github.com/Kashumy/portfolio) |
-| [Abyss-Asylum game](https://github.com/Kashumy/Abyss-Asylum/) | Surce Code of Abyss-Asylum game project | [Link to Stars](https://github.com/Kashumy/Abyss-Asylum/) |
-| [ByteBinUtils Engine language for Js](https://github.com/Kashumy/ByteBinUtils) | ByteBinUtils  language | [Link to Stars](https://github.com/Kashumy/ByteBinUtils) |
+| [Project 1](https://github.com/Kashumy) | Home Portfoilo | [Code](https://github.com/Kashumy) |
+| [Project 2](https://github.com/Kashumy/portfolio) | Home portfolio 2 | [Code](https://github.com/Kashumy/portfolio) |
+| [Abyss-Asylum game](https://github.com/Kashumy/Abyss-Asylum/) | Source Code of Abyss-Asylum game project | [Code](https://github.com/Kashumy/Abyss-Asylum/) |
+| [ByteBinUtils Engine language for Js](https://github.com/Kashumy/ByteBinUtils) | ByteBinUtils language | [Code](https://github.com/Kashumy/ByteBinUtils) |
+
 
 
  
@@ -100,4 +106,4 @@ Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, 
 
  - `https://github.com/Kashumy/portfoilo/ `
 
-</pre>
+</div>
