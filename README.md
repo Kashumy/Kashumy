@@ -1,6 +1,7 @@
 
 ![](text2.png)
 
+![Untitled61_20230713194647](https://github.com/Kashumy/Kashumy/assets/114857637/5037e6e3-8ba8-4b8a-a5b3-2557b90b9ead)
 
 
 #  Hello My name is Krystian ✨
@@ -17,8 +18,7 @@ ___
 
 > # Projects
 
-![Untitled62_20230713220707](https://github.com/Kashumy/Kashumy/assets/114857637/5a9a6219-db22-4e49-b865-63549d39283d)
- Here is my projects
+![Untitled62_20230713220707](https://github.com/Kashumy/Kashumy/assets/114857637/5a9a6219-db22-4e49-b865-63549d39283d)Here is my projects
 
 | Project | Description | Code Of Project |
 |---------|-------------|-------|
