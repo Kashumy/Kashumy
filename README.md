@@ -1,10 +1,5 @@
-👋🏻 Hello let's be folowers together 
-⭐ let's climb above the stars
 
-
-## dayly splash text
-- `i like programming `
-  ![](text2.png)
+ ![](text2.png)
 ![](1.gif)
 
 # Hello My name is Krystian ✨
@@ -13,8 +8,19 @@
 - Css
 - Js
 - C++
-# 💪 Rocket projects
 
+👋🏻 Hello let's be folowers together 
+⭐ let's climb above the stars
+
+
+## dayly splash text
+- `i like programming `
+
+# 💪 Rocket projects
+#### Kashumy Portfolios
+https://kashumy.github.io/
+##### #2
+https://kashumy.github.io/portfoilo
 #### Abyss-Asylum game project
 https://github.com/Kashumy/Abyss-Asylum/blob/main/README.md
 #### ByteBinUtils Engine language for Js
