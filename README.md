@@ -39,7 +39,7 @@ codinger-cutie.github.io
 
 https://kashumy.github.io/My_aplications/Index.html 
 ### Newly added 🙂
-- https://kashumy.github.io/Response/
+-
 - ... 
 ### ✨ Beta projects
 
