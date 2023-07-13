@@ -1,10 +1,11 @@
 
 
 
-![Untitled61_20230713194647](https://github.com/Kashumy/Kashumy/assets/114857637/5037e6e3-8ba8-4b8a-a5b3-2557b90b9ead)
+<h3> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Hello My name is Krystian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 
-
-#  Hello My name is Krystian ✨
+![Untitled61_20230713194647](https://github.com/Kashumy/Kashumy/assets/114857637/5037e6e3-8ba8-4b8a-a5b3-2557b90b9ead) 
 ### Im interested 
 
 ___
