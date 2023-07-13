@@ -18,10 +18,14 @@
 # 💪 Rocket projects
 #### Kashumy Portfolios
 https://kashumy.github.io/
+`code`
+https://github.com/Kashumy/kashumy.github.io/
 ##### #2
 https://kashumy.github.io/portfoilo
+`code`
+https://github.com/Kashumy/portfoilo
 #### Abyss-Asylum game project
-https://github.com/Kashumy/Abyss-Asylum/blob/main/README.md
+https://github.com/Kashumy/Abyss-Asylum/
 #### ByteBinUtils Engine language for Js
 [ByteBinUtils](https://github.com/Kashumy/ByteBinUtils)
 #### im recomend seeing
@@ -70,6 +74,8 @@ Hey there! I wanted to share a quick and enjoyable text with you, spiced up with
 Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, your encouragement truly brightens my day!
 
 
-⭐ Inspired Projects
-by : @MuhammadMujtabaa
+## ⭐ Inspired Projects
+##### by : @MuhammadMujtabaa
+
+
  - `https://github.com/Kashumy/portfoilo/ `
