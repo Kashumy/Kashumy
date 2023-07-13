@@ -3,10 +3,23 @@
 
 # Hello My name is Krystian ✨
 ### Im interested 
-- Html ![](https://www.w3.org/html/)
-- Css
-- Js
-- C++
+|   |   |
+|----|----|
+|Html| Css |
+|JavaScript| makefile |
+| C++ | Python |
+| C  | |
+# Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Project 1](https://kashumy.github.io/) | Home Portfoilo | [Link to Stars](https://github.com/Kashumy/kashumy.github.io/) |
+| [Project 2](https://kashumy.github.io/portfolio) | Home portfolio 2 | [Link to Stars](https://github.com/Kashumy/portfolio) |
+| [Abyss-Asylum game](https://github.com/Kashumy/Abyss-Asylum/) | Surce Code of Abyss-Asylum game project | [Link to Stars](https://github.com/Kashumy/Abyss-Asylum/) |
+| [ByteBinUtils Engine language for Js](https://github.com/Kashumy/ByteBinUtils) | ByteBinUtils  language | [Link to Stars](https://github.com/Kashumy/ByteBinUtils) |
+
+
+ 
 
 👋🏻 Hello let's be folowers together 
 ⭐ let's climb above the stars
@@ -16,6 +29,7 @@
 - `i like programming `
 
 # 💪 Rocket projects
+
 #### Kashumy Portfolios
 https://kashumy.github.io/
 
