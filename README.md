@@ -1,5 +1,5 @@
 ![](text2.png)
-![](1.gif)
+
 
 # Hello My name is Krystian ✨
 ### Im interested 
