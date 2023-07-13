@@ -3,8 +3,9 @@
 
 
 
-# ![image](https://github.com/Kashumy/Kashumy/assets/114857637/0476ead3-534c-4f80-a2ee-ecd4fffb1544) Hello My name is Krystian ✨
+#  Hello My name is Krystian ✨
 ### Im interested 
+
 ___
 |   |   |     |
 |--------|--------|--------|
@@ -16,7 +17,7 @@ ___
 
 > # Projects
 
-
+![image](https://github.com/Kashumy/Kashumy/assets/114857637/0476ead3-534c-4f80-a2ee-ecd4fffb1544) Here is my projects
 
 | Project | Description | Code Of Project |
 |---------|-------------|-------|
