@@ -44,7 +44,10 @@ ___
 
 # 💪 Rocket projects
 #### Remake games
-Kashumy/Just-Shapes-And-Bits
+https://Kashumy/Just-Shapes-And-Bits
+
+
+
 (only work properly on mobile devices )
 
 #### Kashumy Portfolios
