@@ -1,4 +1,4 @@
-
+ 
 
 
 <h4> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,7 +24,7 @@ ___
 
 > Here is my projects
 
-| Project | Description | Code Of Project |
+| Project | Description | Cshapes and bitse Of Project |
 |---------|-------------|-------|
 | [Project 1](https://github.com/Kashumy) | Home Portfoilo | [Code](https://github.com/Kashumy) |
 | [Project 2](https://github.com/Kashumy/portfolio) ## Home portfolio 2 | [Code](https://github.com/Kashumy/portfolio) |
@@ -40,11 +40,11 @@ ___
 
 
 ## dayly splash text
-- `coffee ?`
+- `Python script or Clang`
 
 # 💪 Rocket projects
 #### Remake games
-https://Kashumy/Just-Shapes-And-Bits
+[Just shapes and bits ](https://kashumy.github.io/Just-Shapes-And-Bits/)
 
 
 
@@ -81,8 +81,8 @@ codinger-cutie.github.io
 
 https://kashumy.github.io/My_aplications/Index.html 
 ### Newly added 🙂
--
-- ... 
+-  https://kashumy.github.io/Just-Shapes-And-Bits/
+- 
 ### ✨ Beta projects
 
 - https://kashumy.github.io/JUST_WAIT_FOR_NEW_PROJECT/ 
@@ -118,6 +118,9 @@ Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, 
 
 
  - `https://github.com/Kashumy/portfoilo/ `
+##### my friend 
 
+
+- `https://kashumy.github.io/Just-Shapes-And-Bits/`
 
 ![](text2.png)
