@@ -27,7 +27,7 @@ ___
 | Project | Description | Code Of Project |
 |---------|-------------|-------|
 | [Project 1](https://github.com/Kashumy) | Home Portfoilo | [Code](https://github.com/Kashumy) |
-| [Project 2](https://github.com/Kashumy/portfolio) | Home portfolio 2 | [Code](https://github.com/Kashumy/portfolio) |
+| [Project 2](https://github.com/Kashumy/portfolio) ## Home portfolio 2 | [Code](https://github.com/Kashumy/portfolio) |
 | [Abyss-Asylum game](https://github.com/Kashumy/Abyss-Asylum/) | Source Code of Abyss-Asylum game project | [Code](https://github.com/Kashumy/Abyss-Asylum/) |
 | [ByteBinUtils Engine language for Js](https://github.com/Kashumy/ByteBinUtils) | ByteBinUtils language | [Code](https://github.com/Kashumy/ByteBinUtils) |
 
@@ -40,9 +40,12 @@ ___
 
 
 ## dayly splash text
-- `i like programming `
+- `coffee ?`
 
 # 💪 Rocket projects
+#### Remake games
+Kashumy/Just-Shapes-And-Bits
+(only work properly on mobile devices )
 
 #### Kashumy Portfolios
 https://kashumy.github.io/
