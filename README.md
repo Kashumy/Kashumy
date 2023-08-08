@@ -17,6 +17,14 @@ ___
 | C  | |        |
 ___
 
+my pokemon based game
+
+
+
+https://kashumy.github.io/Pokemon-Web/
+
+
+
 #  ![Untitled62_20230713221406](https://github.com/Kashumy/Kashumy/assets/114857637/1c519627-f83b-4863-8c8b-7e6ec48605b1) Projects 
 
 
