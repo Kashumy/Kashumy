@@ -12,7 +12,7 @@ ___
 |   |   |     |
 |--------|--------|--------|
 |Html| Css | Drawing & designing |
-|JavaScript| makefile |        |
+|JavaScript| makefile |  making games     |
 | C++ | Python |          |
 | C  | |        |
 ___
@@ -21,7 +21,7 @@ my pokemon based game
 
 
 
-https://kashumy.github.io/Pokemon-Web/
+https://kashumy.itch.io/pokemon-fireweb
 
 
 
