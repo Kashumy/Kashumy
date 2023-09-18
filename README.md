@@ -48,7 +48,7 @@ https://kashumy.itch.io/pokemon-fireweb
 
 
 ## dayly splash text
-- `Python script or Clang`
+- `just a diode 💡`
 
 # 💪 Rocket projects
 #### Remake games
