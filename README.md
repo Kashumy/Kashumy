@@ -13,7 +13,7 @@ ___
 |--------|--------|--------|
 |Html| Css | Drawing & designing |
 |JavaScript| makefile |  making games     |
-| C++ | Python |          |
+| C++ | Python |   electrochemistry       |
 | C  | |        |
 ___
 
@@ -48,7 +48,7 @@ https://kashumy.itch.io/pokemon-fireweb
 
 
 ## dayly splash text
-- `just a diode 💡`
+- `looking foward`
 
 # 💪 Rocket projects
 #### Remake games
