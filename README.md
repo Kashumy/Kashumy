@@ -51,8 +51,8 @@ https://kashumy.itch.io/pokemon-fireweb
 ⭐ let's climb above the stars
 
 
-## dayly splash text
-- `looking foward`
+## random splash text
+- `this is a splash text`
 
 # 💪 Rocket projects
 #### Remake games
