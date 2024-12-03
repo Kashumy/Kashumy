@@ -52,7 +52,7 @@ https://kashumy.itch.io/pokemon-fireweb
 
 
 ## random splash text
-- `this is a splash text`
+- ` bamboo `
 
 # 💪 Rocket projects
 #### Remake games
@@ -89,11 +89,11 @@ codinger-cutie.github.io
 ### Aplications 
 
 
-
+https://github.com/Kashumy/Primoria-Ferox-Download
 
 https://kashumy.github.io/My_aplications/Index.html 
 ### Newly added 🙂
--  https://kashumy.github.io/Just-Shapes-And-Bits/
+-  [primoria ferox](https://github.com/Kashumy/Primoria-Ferox-Download)
 - 
 ### ✨ Beta projects
 
@@ -125,14 +125,5 @@ Hey there! I wanted to share a quick and enjoyable text with you, spiced up with
 Short, sweet, and hopefully more enjoyable with those sparkly emojis! Remember, your encouragement truly brightens my day!
 
 
-## ⭐ Inspired Projects
-##### by : @MuhammadMujtabaa
-
-
- - `https://github.com/Kashumy/portfoilo/ `
-##### my friend 
-
-
-- `https://kashumy.github.io/Just-Shapes-And-Bits/`
 
 ![](text2.png)
