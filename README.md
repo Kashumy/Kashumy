@@ -52,7 +52,7 @@ https://kashumy.itch.io/pokemon-fireweb
 
 
 ## random splash text
-- ` bamboo `
+- ` txet hsalps modnar `
 
 # 💪 Rocket projects
 #### Remake games
