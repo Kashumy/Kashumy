@@ -1,6 +1,6 @@
- 
+  
 
-![Profile Banner](https://github.com/Kashumy/Kashumy/assets/114857637/5037e6e3-8ba8-4b8a-a5b3-2557b90b9ead)
+![Profile Banner](https://raw.githubusercontent.com/Kashumy/Kashumy/refs/heads/main/kashumy.gif)
 ```👋 Hello, my name is Krystian!```
 
 ---
@@ -66,4 +66,4 @@
 
 ## ⭐ Let's Be Friends !
 If you enjoy my projects, **drop a star** ⭐ on GitHub ! 
-Follow me and be Followed ! 🚀
+Follow me and be Followed  
