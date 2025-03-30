@@ -4,6 +4,9 @@
 ```👋 Hello, my name is Krystian!```
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/1QfjQKX3fZ7lgrGOiE/giphy.gif" alt="Cat GIF">
+</p>
 
 ## 🚀 Interests
 
@@ -15,6 +18,8 @@
 | C | Making Musics | Java Android|
 
 ---
+
+
 
 ## 🛠 Projects
 
@@ -48,9 +53,19 @@
 - [My Applications](https://kashumy.github.io/My_aplications/Index.html)
 
 ---
+<p align="center">
+  <img src="https://media4.giphy.com/media/l4FGn9OKY4rQLpk1a/giphy.gif?cid=6c09b952pspbaxxcfnjx15pa4z39bk5ic0hc4o2nw35os01w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Cat GIF">
+</p>
+
+
 ### 🌐 My Site
 [Visit my website](https://kashumy.github.io)  
 --- 
+## ✨ Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kashumy&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kashumy&label=Profile%20Views&color=blue&style=flat" alt="View Counter">
+</p>
 
 ## 📌 About Me
 - 🌍 Passionate about **HTML, CSS, JavaScript, and game development**.
