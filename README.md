@@ -35,6 +35,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://media.tenor.com/m2dJfLqYgcsAAAAM/maxwell-maxwell-gif.gif" alt="Cat GIF">
+</p>
 
 ## 🎉 Featured Projects
 
@@ -82,3 +85,6 @@
 ## ⭐ Let's Be Friends !
 If you enjoy my projects, **drop a star** ⭐ on GitHub ! 
 Follow me and be Followed  
+<p align="center">
+  <img src="https://media.tenor.com/yNMGjXsoYGUAAAAM/cat-cats.gif" alt="Cat GIF">
+</p>
