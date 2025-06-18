@@ -9,7 +9,8 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/1QfjQKX3fZ7lgrGOiE/giphy.gif" alt="Cat GIF">
+``` <img src="https://media.giphy.com/media/1QfjQKX3fZ7lgrGOiE/giphy.gif" alt="Cat GIF">  ```
+    
 </p>
 
 ## 🚀 Interests
