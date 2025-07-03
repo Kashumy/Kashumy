@@ -76,12 +76,13 @@
 </p>
 
 ## 📌 About Me
+- 🗣️ Im bat at **engrish**
 - 🌍 Passionate about **HTML, CSS, JavaScript, and game development**.
 - 🎮 Love creating **games for mobile devices**.
 - 💻 Enjoy **building websites and mobile applications**.
 - 🎨 Interested in **front-end design and UI/UX**.
 - 🔥 My favorite language is **javascript**
-- 🍉 Favorite foods? **Watermelon and kebabs!**  
+- 🍉 Favorite foods? **Coffee :)** wait ?  
 
 > I started programming in school, inspired by my computer science teacher. My friend **[@codinger-cutie](https://github.com/codinger-cutie)** also motivated me to share my work on GitHub!
 
