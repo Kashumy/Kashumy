@@ -77,6 +77,7 @@
 
 ## 📌 About Me
 - 🗣️ Im bat at **engrish**
+- 💫 I am very cut off from society, I focus mainly on programming, although I don't know why 
 - 🌍 Passionate about **HTML, CSS, JavaScript, and game development**.
 - 🎮 Love creating **games for mobile devices**.
 - 💻 Enjoy **building websites and mobile applications**.
