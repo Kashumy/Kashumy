@@ -49,10 +49,6 @@
 ### 🎵 **Remaked Games**
 - [Osu Remake](https://github.com/Kashumy/OSUFinalBoss) * this osu remake isn't good on computers *
 
-### 💼 **Portfolios**
-- [Portfolio 1](https://kashumy.github.io/) - [Code](https://github.com/Kashumy/kashumy.github.io/)
-- [Portfolio 2](https://kashumy.github.io/portfoilo) - [Code](https://github.com/Kashumy/portfoilo)
-
 ### 🎮 **Game & App Projects**
 - [Primoria-Ferox](https://github.com/Kashumy/Primoria-Ferox-Latest)
 - [Abyss-Asylum](https://github.com/Kashumy/Abyss-Asylum/)
@@ -66,9 +62,7 @@
 </p>
 
 
-### 🌐 My Site
-[Visit my website](https://kashumy.github.io)  
---- 
+ 
 ## ✨ Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kashumy&show_icons=true&theme=radical)
 <p align="center">
@@ -76,14 +70,15 @@
 </p>
 
 ## 📌 About Me
-- 🗣️ Im bat at **engrish**
+- 🗣️ Im bat at **egnrish**
 - 💫 I am very cut off from society, I focus mainly on programming, although I don't know why 
 - 🌍 Passionate about **HTML, CSS, JavaScript, and game development**.
 - 🎮 Love creating **games for mobile devices**.
 - 💻 Enjoy **building websites and mobile applications**.
 - 🎨 Interested in **front-end design and UI/UX**.
 - 🔥 My favorite language is **javascript**
-- 🍉 Favorite foods? **Coffee :)** wait ?  
+- 🍉 Favorite foods? **Coffee :)** wait ?
+
 
 > I started programming in school, inspired by my computer science teacher. My friend **[@codinger-cutie](https://github.com/codinger-cutie)** also motivated me to share my work on GitHub!
 
