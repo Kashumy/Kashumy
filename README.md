@@ -1,17 +1,13 @@
    
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-## Kashumy    ( He/him ) &nbsp;  
-
- 
 ![Profile Banner](https://raw.githubusercontent.com/Kashumy/Kashumy/refs/heads/main/kashumy.gif)
 ```👋 Hello, my name is Krystian!```
 
 ---
 <p align="center">
- <img src="https://i.pinimg.com/originals/3d/74/21/3d7421c1fffa6c599322c9757c6c3495.gif" alt="Cat GIF">  
+ <img src="https://media.tenor.com/JNrPF3XuHXIAAAAM/java-duke.gif" alt="Cat GIF">  
     
 </p>
+i love java ☕
 
 ## 🚀 Interests
 
