@@ -65,6 +65,11 @@ i love java ☕
   <img src="https://komarev.com/ghpvc/?username=Kashumy&label=Profile%20Views&color=blue&style=flat" alt="View Counter">
 </p>
 
+## Most Used Languages By Me
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashumy&layout=compact&theme=radical" alt="Top Languages"></p>
+
+
+
 ## 📌 About Me
 - 🗣️ Im bat at **egnrish**
 - 💫 I am very cut off from society, I focus mainly on programming, although I don't know why 
