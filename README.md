@@ -7,7 +7,7 @@
  <img src="https://media.tenor.com/JNrPF3XuHXIAAAAM/java-duke.gif" alt="Cat GIF">  
     
 </p>
-i love java ☕
+Java & WebView = ❤️
 
 ## 🚀 Interests
 
@@ -65,7 +65,7 @@ i love java ☕
   <img src="https://komarev.com/ghpvc/?username=Kashumy&label=Profile%20Views&color=blue&style=flat" alt="View Counter">
 </p>
 
-## Most Used Languages By Me
+## 📦 the languages I use most often 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashumy&layout=compact&theme=radical" alt="Top Languages"></p>
 
 
